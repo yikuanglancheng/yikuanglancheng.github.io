@@ -71,7 +71,7 @@ My research interests include:
 ---
 <div class='paper-box-text' markdown="1">
 
--	承楠, **`王秀程`**, 沈学民. 基于生成式模型的新型机器语义通信方法研究. [中兴通讯技术](https://kns.cnki.net/kcms2/article/abstract?v=liLFU49ICVs8P0YCg2w_YZYYW9AEXmUawPZCsln3_jBxJ_F7Z8qybYc9D1dbo2zLGkfttc1sRl_jEQeU7G6MHEMJRjDwSwZugMWwQq-4rfMM1k9JmyIq3lXxzWKR4kN-obNssNzsVsZQhU9hOyIw5-xxync0r3R9vXPT9KoTZmOOk9Dy4dV3sQ==&uniplatform=NZKPT&language=CHS), 2025.
+-	承楠, **王秀程**, 沈学民. 基于生成式模型的新型机器语义通信方法研究. [中兴通讯技术](https://kns.cnki.net/kcms2/article/abstract?v=liLFU49ICVs8P0YCg2w_YZYYW9AEXmUawPZCsln3_jBxJ_F7Z8qybYc9D1dbo2zLGkfttc1sRl_jEQeU7G6MHEMJRjDwSwZugMWwQq-4rfMM1k9JmyIq3lXxzWKR4kN-obNssNzsVsZQhU9hOyIw5-xxync0r3R9vXPT9KoTZmOOk9Dy4dV3sQ==&uniplatform=NZKPT&language=CHS), 2025.
 
 </div>
 
