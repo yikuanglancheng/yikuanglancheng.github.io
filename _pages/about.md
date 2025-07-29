@@ -38,7 +38,7 @@ My research interests include:
 ---
 <div class='paper-box-text' markdown="1">
 
--	`Xiucheng Wang`, Qiming Zhang, Nan Cheng, Junting Chen, Zezhong Zhang, Zan Li, Shuguang Cui, Xuemin Shen. RadioDiff-3D: A 3D × 3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication. [IEEE TNSE](https://ieeexplore.ieee.org/document/11083758), 2025.
+-	<font color=#008000>`Xiucheng Wang`</font>, Qiming Zhang, Nan Cheng, Junting Chen, Zezhong Zhang, Zan Li, Shuguang Cui, Xuemin Shen. RadioDiff-3D: A 3D × 3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication. [IEEE TNSE](https://ieeexplore.ieee.org/document/11083758), 2025.
 [Github](https://github.com/UNIC-Lab/UrbanRadio3D).
 
 </div>
