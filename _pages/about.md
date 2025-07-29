@@ -80,4 +80,4 @@ My research interests include:
 - TPC Member of IEEE ICCC 2025.
 - TPC Member of IEEE GlobeCom 2024.
 - TPC Member of IEEE ICCC 2024.
--  PC Member of IEEE ICCT 2024.
+- TPC Member of IEEE ICCT 2024.
