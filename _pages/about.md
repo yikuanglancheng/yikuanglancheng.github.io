@@ -71,7 +71,7 @@ My research interests include:
 </div>
 
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - *2022* National Scholarship. 
 - *2023* Fundamental Research Funds for the Central Universities, and the Innovation Fund of Xidian University (Grant Number: YJSJ23012). 
 
