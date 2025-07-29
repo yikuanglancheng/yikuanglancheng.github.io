@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year PhD student at the College of Telecommunication Engineering, Xidian University, advised by Prof. [Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and Prof. [Nan Cheng](https://scholar.google.com/citations?user=Cxm51twAAAAJ&hl=en&oi=ao).
+I am a third-year PhD student at the School of Telecommunication Engineering, Xidian University, advised by Prof. [Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and Prof. [Nan Cheng](https://scholar.google.com/citations?user=Cxm51twAAAAJ&hl=en&oi=ao).
 
 My research interests include:
 - Radio Map
