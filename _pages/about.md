@@ -33,29 +33,46 @@ My research interests include:
 ---
 <div class='paper-box-text' markdown="1">
 
--	`Xiucheng Wang`, Keda Tao, Nan Cheng, Zhisheng Yin, Zan Li, Yuan Zhang, Xuemin Shen. Radiodiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction. [IEEE TCCN](https://ieeexplore.ieee.org/abstract/document/10764739), 2025.
-[Github](https://github.com/UNIC-Lab/RadioDiff).
-
-</div>
-
-<div class='paper-box-text' markdown="1">
-
 -	`Xiucheng Wang`, Qiming Zhang, Nan Cheng, Junting Chen, Zezhong Zhang, Zan Li, Shuguang Cui, Xuemin Shen. RadioDiff-3D: A 3D × 3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication. [IEEE TNSE](https://ieeexplore.ieee.org/document/11083758), 2025.
 [Github](https://github.com/UNIC-Lab/UrbanRadio3D).
 
 </div>
 
+<div class='paper-box-text' markdown="1">
+
+-	`Xiucheng Wang`, Qiming Zhang, Nan Cheng, Ruijin Sun, Zan Li, Shuguang Cui, Xuemin Shen. RadioDiff-$k^2$: Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction. [ArXiv](https://arxiv.org/pdf/2504.15623), 2025.
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+-	`Xiucheng Wang`, Zhongsheng Fang, Nan Cheng, Ruijin Sun, Zan Li Xuemin Shen. RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction. [ArXiv](https://arxiv.org/abs/2504.14298), 2025.
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+-	`Xiucheng Wang`, Peilin Zheng, Nan Cheng, Ruijin Sun, Junting Chen, Keda Tao, Zan Li, Zhisheng Yin, Zhiquan Liu, Xuemin Shen. RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction. [IEEE INFOCOM wksp](https://ieeexplore.ieee.org/document/11083758), 2025.
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+-	`Xiucheng Wang`, Keda Tao, Nan Cheng, Zhisheng Yin, Zan Li, Yuan Zhang, Xuemin Shen. Radiodiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction. [IEEE TCCN](https://ieeexplore.ieee.org/abstract/document/10764739), 2025.
+[Github](https://github.com/UNIC-Lab/RadioDiff).
+
+</div>
+
+### Chinese 
+---
+<div class='paper-box-text' markdown="1">
+
+-	承楠, `王秀程`, 沈学民. 基于生成式模型的新型机器语义通信方法研究. [中兴通讯技术](https://kns.cnki.net/kcms2/article/abstract?v=liLFU49ICVs8P0YCg2w_YZYYW9AEXmUawPZCsln3_jBxJ_F7Z8qybYc9D1dbo2zLGkfttc1sRl_jEQeU7G6MHEMJRjDwSwZugMWwQq-4rfMM1k9JmyIq3lXxzWKR4kN-obNssNzsVsZQhU9hOyIw5-xxync0r3R9vXPT9KoTZmOOk9Dy4dV3sQ==&uniplatform=NZKPT&language=CHS), 2025.
+
+</div>
+
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022* National Scholarship. 
+- *2023* Fundamental Research Funds for the Central Universities, and the Innovation Fund of Xidian University (Grant Number: YJSJ23012). 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
