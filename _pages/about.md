@@ -26,6 +26,12 @@ My research interests include:
 - Graph Neural Network
 - Learn to Optimize
 
+# 📰 News
+<div class='paper-box-text' markdown="1">
+
+-	首次理论分析，「无线电地图构建」竟是生成问题？西电全新模型，性能全面领先 [新智元](https://mp.weixin.qq.com/s/3Yc911BY6vbbWIQckhOvrA?scene=25), 2025.
+
+</div>
 
 # 📝 Publications 
 ### English 
