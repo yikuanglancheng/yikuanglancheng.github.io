@@ -20,7 +20,7 @@ redirect_from:
 I am a third-year PhD student at the School of Telecommunication Engineering, Xidian University, advised by Prof. [Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and Prof. [Nan Cheng](https://scholar.google.com/citations?user=Cxm51twAAAAJ&hl=en&oi=ao).
 
 My research interests include:
-- Radio Map<font color=#008000>我是绿色</font>
+- Radio Map <font color=#008000>我是绿色</font>
 - EM Ray Tracing
 - Diffusion Model
 - Graph Neural Network
