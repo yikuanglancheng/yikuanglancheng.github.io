@@ -28,7 +28,7 @@ My research interests include:
 # 📰 News
 <div class='paper-box-text' markdown="1">
 
-- 西安电子科技大学承楠教授团队突破电磁空间孪生认知大模型技术 🔥[**新华社-强国科技**](https://h.xinhuaxmt.com/vh512/share/12678291?docid=12678291&newstype=1001&d=13500b7), 2025.
+- 西安电子科技大学承楠教授团队突破电磁空间孪生认知大模型技术 🎉[**新华社-强国科技**](https://h.xinhuaxmt.com/vh512/share/12678291?docid=12678291&newstype=1001&d=13500b7), 2025.
 - 面向6G环境感知通信！西电开源3Dx3D无线电地图数据集与生成式基准框架  [**新智元**](https://mp.weixin.qq.com/s/EW9u_72wduBkxnJEDuUB7w), 2025.
 -	“首次理论分析，「无线电地图构建」竟是生成问题？西电全新模型，性能全面领先” [**新智元**](https://mp.weixin.qq.com/s/3Yc911BY6vbbWIQckhOvrA?scene=25), 2025.
 
