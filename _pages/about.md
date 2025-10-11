@@ -64,7 +64,7 @@ My research interests include:
 
 <div class='paper-box-text' markdown="1">
 
--	**`Xiucheng Wang`**, Peilin Zheng, Nan Cheng, Ruijin Sun, Junting Chen, Keda Tao, Zan Li, Zhisheng Yin, Zhiquan Liu, Xuemin Shen. RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction. [IEEE INFOCOM wksp](https://ieeexplore.ieee.org/document/11083758), 2025.
+-	**`Xiucheng Wang`**, Peilin Zheng, Nan Cheng, Ruijin Sun, Junting Chen, Keda Tao, Zan Li, Zhisheng Yin, Zhiquan Liu, Xuemin Shen. RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction. [IEEE INFOCOM wksp](https://ieeexplore.ieee.org/abstract/document/11152929/), 2025.
 
 </div>
 
