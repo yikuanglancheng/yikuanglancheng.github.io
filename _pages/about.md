@@ -39,38 +39,38 @@ My research interests include:
 ---
 <div class='paper-box-text' markdown="1">
 
--	**`Xiucheng Wang`**, Qiming Zhang, Nan Cheng. RadioDiff-Loc: Diffusion Model Enhanced Scattering Congnition for NLoS Localization with Sparse Radio Map Estimation
+-	**`Xiucheng Wang`**, Qiming Zhang, Nan Cheng. **RadioDiff-Loc: Diffusion Model Enhanced Scattering Congnition for NLoS Localization with Sparse Radio Map Estimation**
 . [ArXiv](https://www.arxiv.org/abs/2509.01875), 2025.
 
 
 <div class='paper-box-text' markdown="1">
 
--	**`Xiucheng Wang`**, Qiming Zhang, Nan Cheng, Junting Chen, Zezhong Zhang, Zan Li, Shuguang Cui, Xuemin Shen. RadioDiff-3D: A 3D × 3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication. [IEEE TNSE](https://ieeexplore.ieee.org/document/11083758), 2025.
+-	**`Xiucheng Wang`**, Qiming Zhang, Nan Cheng, Junting Chen, Zezhong Zhang, Zan Li, Shuguang Cui, Xuemin Shen. **RadioDiff-3D: A 3D × 3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication**. [IEEE TNSE](https://ieeexplore.ieee.org/document/11083758), 2025.
 [Github](https://github.com/UNIC-Lab/UrbanRadio3D).
 
 </div>
 
 <div class='paper-box-text' markdown="1">
 
--	**`Xiucheng Wang`**, Qiming Zhang, Nan Cheng, Ruijin Sun, Zan Li, Shuguang Cui, Xuemin Shen. RadioDiff- $k^2$ : Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction. [ArXiv](https://arxiv.org/pdf/2504.15623), 2025.
+-	**`Xiucheng Wang`**, Qiming Zhang, Nan Cheng, Ruijin Sun, Zan Li, Shuguang Cui, Xuemin Shen. **RadioDiff-** $k^2$ : **Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**. [ArXiv](https://arxiv.org/pdf/2504.15623), 2025.
 
 </div>
 
 <div class='paper-box-text' markdown="1">
 
--	**`Xiucheng Wang`**, Zhongsheng Fang, Nan Cheng, Ruijin Sun, Zan Li Xuemin Shen. RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction. [ArXiv](https://arxiv.org/abs/2504.14298), 2025.
+-	**`Xiucheng Wang`**, Zhongsheng Fang, Nan Cheng, Ruijin Sun, Zan Li Xuemin Shen. **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**. [ArXiv](https://arxiv.org/abs/2504.14298), 2025.
 
 </div>
 
 <div class='paper-box-text' markdown="1">
 
--	**`Xiucheng Wang`**, Peilin Zheng, Nan Cheng, Ruijin Sun, Junting Chen, Keda Tao, Zan Li, Zhisheng Yin, Zhiquan Liu, Xuemin Shen. RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction. [IEEE INFOCOM wksp](https://ieeexplore.ieee.org/abstract/document/11152929/), 2025.
+-	**`Xiucheng Wang`**, Peilin Zheng, Nan Cheng, Ruijin Sun, Junting Chen, Keda Tao, Zan Li, Zhisheng Yin, Zhiquan Liu, Xuemin Shen. **RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction**. [IEEE INFOCOM wksp](https://ieeexplore.ieee.org/abstract/document/11152929/), 2025.
 
 </div>
 
 <div class='paper-box-text' markdown="1">
 
--	**`Xiucheng Wang`**, Keda Tao, Nan Cheng, Zhisheng Yin, Zan Li, Yuan Zhang, Xuemin Shen. Radiodiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction. [IEEE TCCN](https://ieeexplore.ieee.org/abstract/document/10764739), 2025.
+-	**`Xiucheng Wang`**, Keda Tao, Nan Cheng, Zhisheng Yin, Zan Li, Yuan Zhang, Xuemin Shen. **Radiodiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction**. [IEEE TCCN](https://ieeexplore.ieee.org/abstract/document/10764739), 2025.
 [Github](https://github.com/UNIC-Lab/RadioDiff). 🔥**IEEE Popular Paper**
 
 </div>
