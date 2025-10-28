@@ -85,6 +85,7 @@ My research interests include:
 
 
 # 🎖️ Honors and Awards
+-  IEEE WCSP 2025 **Best Paper Award**.
 -  IEEE ICCT 2025 **Best Paper Award**.
 - *2025* National Scholarship.
 - *2023* Fundamental Research Funds for the Central Universities, and the Innovation Fund of Xidian University (Grant Number: YJSJ23012).
