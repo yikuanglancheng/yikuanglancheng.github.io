@@ -48,7 +48,7 @@ My research interests include:
 
 <div class='paper-box-text' markdown="1">
 
--	**`Xiucheng Wang`**, Qiming Zhang, Nan Cheng, Ruijin Sun, Zan Li, Shuguang Cui, Xuemin Shen. **RadioDiff-** $k^2$ : **Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**. [ArXiv](https://arxiv.org/pdf/2504.15623), IEEE JSAC 2025.
+-	**`Xiucheng Wang`**, Qiming Zhang, Nan Cheng, Ruijin Sun, Zan Li, Shuguang Cui, Xuemin Shen. **RadioDiff-** $k^2$ : **Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**. [IEEE JSAC](https://arxiv.org/pdf/2504.15623), 2025.
 
 </div>
 
