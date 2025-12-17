@@ -98,6 +98,7 @@ My research interests include:
 
 
 # 🎖️ Honors and Awards
+- 中国科协“青培”博士生专项
 -  IEEE WCSP 2025 **Best Paper Award**.
 -  IEEE ICCT 2025 **Best Paper Award**.
 - *2025* National Scholarship.
