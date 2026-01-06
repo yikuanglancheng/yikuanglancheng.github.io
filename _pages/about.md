@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at the School of Telecommunication Engineering, Xidian University, advised by Prof. [Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and Prof. [Nan Cheng](https://scholar.google.com/citations?user=Cxm51twAAAAJ&hl=en&oi=ao).
+I am a PhD student at the School of Telecommunication Engineering, Xidian University, advised by Prof. [Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and Prof. [Nan Cheng](https://scholar.google.com/citations?user=Cxm51twAAAAJ&hl=en&oi=ao). I have been selected for the PhD Program of the "Young Talents Cultivation" Initiative launched by the China Association for Science and Technology (中国科协“青托”博士生专项), and also won the Presidential Award of Xidian University.
 My research interests include:
 - Radio Map 
 - EM Ray Tracing
@@ -98,7 +98,8 @@ My research interests include:
 
 
 # 🎖️ Honors and Awards
-- 中国科协“青培”博士生专项
+- Presidential Award of Xidian University
+- 中国科协“青托”博士生专项
 -  IEEE WCSP 2025 **Best Paper Award**.
 -  IEEE ICCT 2025 **Best Paper Award**.
 - *2025* National Scholarship.
