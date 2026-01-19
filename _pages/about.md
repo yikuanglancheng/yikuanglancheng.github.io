@@ -87,6 +87,12 @@ My research interests include:
 
 </div>
 
+<div class='paper-box-text' markdown="1">
+
+-	**`Xiucheng Wang`**, Tingwei Yuan, Yang Cao, Nan Cheng, Ruijin Sun, Weihua Zhuang. **iRadioDiff: Physics-Informed Diffusion Model for Indoor Radio Map Construction and Localization**. [IEEE ICC](https://arxiv.org/abs/2511.20015), 2026.[Github](https://github.com/UNIC-Lab/iRadioDiff).
+
+</div>
+
 
 
 ### Chinese 
