@@ -48,7 +48,7 @@ My research interests include:
 <div class='paper-box-text' markdown="1">
 
 -	**`Xiucheng Wang`**, Keda Tao, Nan Cheng, Zhisheng Yin, Zan Li, Yuan Zhang, Xuemin Shen. **Radiodiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction**. [IEEE TCCN](https://ieeexplore.ieee.org/abstract/document/10764739), 2025.
-[Github](https://github.com/UNIC-Lab/RadioDiff). （⭐中科院**一区**，🏆ESI高被引，IEEE Popular Paper）
+[Github](https://github.com/UNIC-Lab/RadioDiff). （⭐中科院**一区**，🏆ESI Highly Cited，IEEE Popular Paper）
 
 </div>
 
