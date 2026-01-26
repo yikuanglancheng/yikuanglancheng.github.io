@@ -67,6 +67,12 @@ My research interests include:
 
 <div class='paper-box-text' markdown="1">
 
+-	**`Xiucheng Wang`**, Peilin Zheng, Nan Cheng, Ruijin Sun, Junting Chen, Keda Tao, Zan Li, Zhisheng Yin, Zhiquan Liu, Xuemin Shen. **RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction**. [IEEE INFOCOM wksp](https://ieeexplore.ieee.org/abstract/document/11152929/), 2025. (⭐**CCF-A**)
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
 -	**`Xiucheng Wang`**, Tingwei Yuan, Yang Cao, Nan Cheng, Ruijin Sun, Weihua Zhuang. **iRadioDiff: Physics-Informed Diffusion Model for Indoor Radio Map Construction and Localization**. [IEEE ICC](https://arxiv.org/abs/2511.20015), 2026.[Github](https://github.com/UNIC-Lab/iRadioDiff). (⭐**IEEE ComSoc Flagship**)
 
 </div>
@@ -82,11 +88,7 @@ My research interests include:
 
 </div>
 
-<div class='paper-box-text' markdown="1">
 
--	**`Xiucheng Wang`**, Peilin Zheng, Nan Cheng, Ruijin Sun, Junting Chen, Keda Tao, Zan Li, Zhisheng Yin, Zhiquan Liu, Xuemin Shen. **RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction**. [IEEE INFOCOM wksp](https://ieeexplore.ieee.org/abstract/document/11152929/), 2025.
-
-</div>
 
 
 
