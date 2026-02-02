@@ -73,7 +73,7 @@ My research interests include:
 
 <div class='paper-box-text' markdown="1">
 
--	**Xiucheng Wang**, Zien Wang, Nan Cheng, Wenchao Xu, Wei Quan, Xuemin Shen. **Graph Neural Network-Based Multicast Routing for On-Demand Streaming Services in 6 G Networks**. [IEEE TMC](https://ieeexplore.ieee.org/abstract/document/11260947), 2025.[Github](https://github.com/UNIC-Lab/GNN-Routing). (⭐中科院**一区**，🏆CCF-A)
+-	**`Xiucheng Wang`**, Zien Wang, Nan Cheng, Wenchao Xu, Wei Quan, Xuemin Shen. **Graph Neural Network-Based Multicast Routing for On-Demand Streaming Services in 6 G Networks**. [IEEE TMC](https://ieeexplore.ieee.org/abstract/document/11260947), 2025.[Github](https://github.com/UNIC-Lab/GNN-Routing). (⭐中科院**一区**，🏆CCF-A)
 
 </div>
 
