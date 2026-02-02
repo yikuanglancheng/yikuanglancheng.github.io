@@ -73,6 +73,12 @@ My research interests include:
 
 <div class='paper-box-text' markdown="1">
 
+-	**Xiucheng Wang**, Zien Wang, Nan Cheng, Wenchao Xu, Wei Quan, Xuemin Shen. **Graph Neural Network-Based Multicast Routing for On-Demand Streaming Services in 6 G Networks**. [IEEE TMC](https://ieeexplore.ieee.org/abstract/document/11260947), 2025.[Github](https://github.com/UNIC-Lab/GNN-Routing). (⭐中科院**一区**，🏆CCF-A)
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
 -	**`Xiucheng Wang`**, Tingwei Yuan, Yang Cao, Nan Cheng, Ruijin Sun, Weihua Zhuang. **iRadioDiff: Physics-Informed Diffusion Model for Indoor Radio Map Construction and Localization**. [IEEE ICC](https://arxiv.org/abs/2511.20015), 2026.[Github](https://github.com/UNIC-Lab/iRadioDiff). (⭐**IEEE ComSoc Flagship**)
 
 </div>
@@ -85,6 +91,12 @@ My research interests include:
 <div class='paper-box-text' markdown="1">
 
 -	**`Xiucheng Wang`**, Zhongsheng Fang, Nan Cheng, Ruijin Sun, Zan Li Xuemin Shen. **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**. [ArXiv](https://arxiv.org/abs/2504.14298), 2025.
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+-	**Xiucheng Wang**, Lianhao Fu, Nan Cheng, Ruijin Sun, Tom Luan, Wei Quan, Khalid Aldubaikhy. **Joint flying relay location and routing optimization for 6g uav–iot networks: A graph neural network-based approach**. [MDPI Remote Sensing](https://www.mdpi.com/2072-4292/14/17/4377), 2022.[Github](https://github.com/UNIC-Lab/LGNN-RGNN). (⭐中科院**二区**)
 
 </div>
 
