@@ -96,7 +96,7 @@ My research interests include:
 
 <div class='paper-box-text' markdown="1">
 
--	**Xiucheng Wang**, Lianhao Fu, Nan Cheng, Ruijin Sun, Tom Luan, Wei Quan, Khalid Aldubaikhy. **Joint flying relay location and routing optimization for 6g uav–iot networks: A graph neural network-based approach**. [MDPI Remote Sensing](https://www.mdpi.com/2072-4292/14/17/4377), 2022.[Github](https://github.com/UNIC-Lab/LGNN-RGNN). (⭐中科院**二区**)
+-	**`Xiucheng Wang`**, Lianhao Fu, Nan Cheng, Ruijin Sun, Tom Luan, Wei Quan, Khalid Aldubaikhy. **Joint flying relay location and routing optimization for 6g uav–iot networks: A graph neural network-based approach**. [MDPI Remote Sensing](https://www.mdpi.com/2072-4292/14/17/4377), 2022.[Github](https://github.com/UNIC-Lab/LGNN-RGNN). (⭐中科院**二区**)
 
 </div>
 
