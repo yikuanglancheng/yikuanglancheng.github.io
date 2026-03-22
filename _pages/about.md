@@ -61,6 +61,12 @@ My research interests include:
 
 <div class='paper-box-text' markdown="1">
 
+-	**`Xiucheng Wang`**, Zhongsheng Fang, Nan Cheng, Ruijin Sun, Zan Li Xuemin Shen. **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**. [IEEE TWC](https://arxiv.org/abs/2504.14298), 2026. （⭐中科院**一区**，🏆CCF-A）
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
 -	**`Xiucheng Wang`**, Peilin Zheng, Honggang Jia, Nan Cheng, Ruijin Sun, Conghao Zhou, Xuemin Shen. **RadioDiff-Flux: Efficient Radio Map Construction via Generative Denoise Diffusion Model Trajectory Midpoint Reuse**. [IEEE TCCN](https://ieeexplore.ieee.org/document/11282987), 2025. （⭐中科院**一区**）
 
 </div>
@@ -88,11 +94,6 @@ My research interests include:
 -	**`Xiucheng Wang`**, Qiming Zhang, Nan Cheng. **RadioDiff-Loc: Diffusion Model Enhanced Scattering Congnition for NLoS Localization with Sparse Radio Map Estimation**
 . [ArXiv](https://www.arxiv.org/abs/2509.01875), 2025.
 
-<div class='paper-box-text' markdown="1">
-
--	**`Xiucheng Wang`**, Zhongsheng Fang, Nan Cheng, Ruijin Sun, Zan Li Xuemin Shen. **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**. [ArXiv](https://arxiv.org/abs/2504.14298), 2025.
-
-</div>
 
 <div class='paper-box-text' markdown="1">
 
