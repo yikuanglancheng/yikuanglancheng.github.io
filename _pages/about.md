@@ -115,6 +115,7 @@ My research interests include:
 
 
 # 🎖️ Honors and Awards
+- ACM WWW 2026 wksp **Best Student Paper Award**
 - Presidential Award of Xidian University
 - 中国科协“青托”博士生专项
 -  IEEE WCSP 2025 **Best Paper Award**.
