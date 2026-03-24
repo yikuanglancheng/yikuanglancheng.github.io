@@ -27,6 +27,7 @@ My research interests include:
 - Learn to Optimize
 
 # 📰 News
+---
 <div class='paper-box-text' markdown="1">
 
 - 西安电子科技大学承楠教授团队突破电磁空间孪生认知大模型技术 🎉[**新华社-强国科技**](https://h.xinhuaxmt.com/vh512/share/12678291?docid=12678291&newstype=1001&d=13500b7), 2025.
