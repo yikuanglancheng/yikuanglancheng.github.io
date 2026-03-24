@@ -35,7 +35,18 @@ My research interests include:
 
 </div>
 
-# 📝 Publications 
+
+
+# 🖊️ Tutorial paper 
+
+<div class='paper-box-text' markdown="1">
+
+-	**`Xiucheng Wang`**, Yuhao Pan, Nan Cheng. **A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awarenes**. [Arxiv](https://arxiv.org/abs/2603.17499), 2026.
+
+</div>
+
+
+# 📝 Technical Paper 
 ### English 
 ---
 
