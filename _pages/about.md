@@ -37,7 +37,8 @@ My research interests include:
 
 
 
-# 🖊️ Tutorial paper 
+# 🖊️ Tutorial Paper 
+---
 
 <div class='paper-box-text' markdown="1">
 
@@ -45,6 +46,7 @@ My research interests include:
 
 </div>
 
+---
 
 # 📝 Technical Paper 
 ### English 
