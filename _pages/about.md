@@ -148,11 +148,6 @@ My research interests include:
 
 # 🎓 Academic Services
 ---
-- TPC Member of IEEE ICC 2025.
-- TPC Member of IEEE GlobeCom 2025.
+- TPC Member of IEEE ICC 2024~2026.
+- TPC Member of IEEE GlobeCom 2025~2026.
 - TPC Member of IEEE ICCC 2025.
-- TPC Member of IEEE ICCSPA 2025.
-- TPC Member of IEEE GlobeCom 2024.
-- TPC Member of IEEE ICCC 2024.
-- TPC Member of IEEE ICCT 2024.
-- TPC Member of IEEE ICCSPA 2024.
