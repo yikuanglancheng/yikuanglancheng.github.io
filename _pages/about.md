@@ -38,6 +38,13 @@ My research interests include:
 # 📝 Publications 
 ### English 
 ---
+
+<div class='paper-box-text' markdown="1">
+
+-	**`Xiucheng Wang`**, Yuhao Pan, Nan Cheng. **A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awarenes**. [Arxiv](https://arxiv.org/abs/2603.17499), 2026.
+
+</div>
+
 <div class='paper-box-text' markdown="1">
 
 -	**`Xiucheng Wang`**, Qiming Zhang, Nan Cheng, Ruijin Sun, Zan Li, Shuguang Cui, Xuemin Shen. **RadioDiff-** $k^2$ : **Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**. [IEEE JSAC](https://ieeexplore.ieee.org/document/11278649), 2025.
