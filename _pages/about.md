@@ -112,9 +112,17 @@ My research interests include:
 
 <div class='paper-box-text' markdown="1">
 
+-	**`Xiucheng Wang`**, Zixuan Guo, Nan Cheng, Zhisheng Yin, Ruijin Sun, Xuemin Shen. **RadioDiff-FS: Physics-Informed Manifold Alignment in Few-Shot Diffusion Models for High-Fidelity Radio Map Construction**
+. [ArXiv](https://arxiv.org/abs/2603.18865), 2026.[Github](https://github.com/UNIC-Lab/RadioDiff-FS).
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
 -	**`Xiucheng Wang`**, Qiming Zhang, Nan Cheng. **RadioDiff-Loc: Diffusion Model Enhanced Scattering Congnition for NLoS Localization with Sparse Radio Map Estimation**
 . [ArXiv](https://www.arxiv.org/abs/2509.01875), 2025.
 
+</div>
 
 <div class='paper-box-text' markdown="1">
 
