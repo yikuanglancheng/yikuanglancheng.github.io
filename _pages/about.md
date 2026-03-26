@@ -56,58 +56,58 @@ My research interests include:
 <div class='paper-box-text' markdown="1">
 
 -	**`Xiucheng Wang`**, Qiming Zhang, Nan Cheng, Ruijin Sun, Zan Li, Shuguang Cui, Xuemin Shen. **RadioDiff-** $k^2$ : **Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**. [IEEE JSAC](https://ieeexplore.ieee.org/document/11278649), 2025.
-[Github](https://github.com/UNIC-Lab/RadioDiff-k). （⭐中科院**一区**，🏆CCF-A，电信领域影响因子最高的技术类期刊）
+[Github](https://github.com/UNIC-Lab/RadioDiff-k). （⭐中科院**一区**，🏆CCF-A，物理波动方程赋能的生成式大模型架构）
 
 </div>
 
 <div class='paper-box-text' markdown="1">
 
 -	**`Xiucheng Wang`**, Keda Tao, Nan Cheng, Zhisheng Yin, Zan Li, Yuan Zhang, Xuemin Shen. **Radiodiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction**. [IEEE TCCN](https://ieeexplore.ieee.org/abstract/document/10764739), 2025.
-[Github](https://github.com/UNIC-Lab/RadioDiff). （⭐中科院**一区**，🏆**ESI Highly Cited**，IEEE Popular Paper）
+[Github](https://github.com/UNIC-Lab/RadioDiff). （⭐中科院**一区**，🏆**ESI Highly Cited**，IEEE Popular Paper，首个基于Diffusion Model的电磁地图构建方法）
 
 </div>
 
 <div class='paper-box-text' markdown="1">
 
 -	**`Xiucheng Wang`**, Qiming Zhang, Nan Cheng, Junting Chen, Zezhong Zhang, Zan Li, Shuguang Cui, Xuemin Shen. **RadioDiff-3D: A 3D × 3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication**. [IEEE TNSE](https://ieeexplore.ieee.org/document/11083758), 2025.
-[Github](https://github.com/UNIC-Lab/UrbanRadio3D). （⭐中科院**二区**, 🏆**IEEE TNSE Feature Paper**, IEEE Popular Paper）
+[Github](https://github.com/UNIC-Lab/UrbanRadio3D). （⭐中科院**二区**, 🏆**IEEE TNSE Feature Paper**, IEEE Popular Paper，大规模3D电磁地图数据集）
 
 </div>
 
 <div class='paper-box-text' markdown="1">
 
--	**`Xiucheng Wang`**, Zhongsheng Fang, Nan Cheng, Ruijin Sun, Zan Li Xuemin Shen. **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**. [IEEE TWC](https://arxiv.org/abs/2504.14298), 2026. （⭐中科院**一区**，🏆CCF-A）
+-	**`Xiucheng Wang`**, Zhongsheng Fang, Nan Cheng, Ruijin Sun, Zan Li Xuemin Shen. **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**. [IEEE TWC](https://arxiv.org/abs/2504.14298), 2026. （⭐中科院**一区**，🏆CCF-A，基于带噪稀疏采样的电磁地图反演与通感一体的环境感知技术）
 
 </div>
 
 <div class='paper-box-text' markdown="1">
 
--	**`Xiucheng Wang`**, Peilin Zheng, Honggang Jia, Nan Cheng, Ruijin Sun, Conghao Zhou, Xuemin Shen. **RadioDiff-Flux: Efficient Radio Map Construction via Generative Denoise Diffusion Model Trajectory Midpoint Reuse**. [IEEE TCCN](https://ieeexplore.ieee.org/document/11282987), 2025. （⭐中科院**一区**）
+-	**`Xiucheng Wang`**, Peilin Zheng, Honggang Jia, Nan Cheng, Ruijin Sun, Conghao Zhou, Xuemin Shen. **RadioDiff-Flux: Efficient Radio Map Construction via Generative Denoise Diffusion Model Trajectory Midpoint Reuse**. [IEEE TCCN](https://ieeexplore.ieee.org/document/11282987), 2025. （⭐中科院**一区**，动态环境与基站位置动态变化下的加速推理方案）
 
 </div>
 
 <div class='paper-box-text' markdown="1">
 
--	**`Xiucheng Wang`**, Peilin Zheng, Nan Cheng, Ruijin Sun, Junting Chen, Keda Tao, Zan Li, Zhisheng Yin, Zhiquan Liu, Xuemin Shen. **RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction**. [IEEE INFOCOM wksp](https://ieeexplore.ieee.org/abstract/document/11152929/), 2025. (⭐**CCF-A**)
+-	**`Xiucheng Wang`**, Peilin Zheng, Nan Cheng, Ruijin Sun, Junting Chen, Keda Tao, Zan Li, Zhisheng Yin, Zhiquan Liu, Xuemin Shen. **RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction**. [IEEE INFOCOM wksp](https://ieeexplore.ieee.org/abstract/document/11152929/), 2025. (⭐**CCF-A**，剪枝与轻量化方法)
 
 </div>
 
 <div class='paper-box-text' markdown="1">
 
--	**`Xiucheng Wang`**, Zien Wang, Nan Cheng, Wenchao Xu, Wei Quan, Xuemin Shen. **Graph Neural Network-Based Multicast Routing for On-Demand Streaming Services in 6 G Networks**. [IEEE TMC](https://ieeexplore.ieee.org/abstract/document/11260947), 2025.[Github](https://github.com/UNIC-Lab/GNN-Routing). (⭐中科院**一区**，🏆CCF-A)
+-	**`Xiucheng Wang`**, Zien Wang, Nan Cheng, Wenchao Xu, Wei Quan, Xuemin Shen. **Graph Neural Network-Based Multicast Routing for On-Demand Streaming Services in 6G Networks**. [IEEE TMC](https://ieeexplore.ieee.org/abstract/document/11260947), 2025.[Github](https://github.com/UNIC-Lab/GNN-Routing). (⭐中科院**一区**，🏆CCF-A，基于图神经网络的按需动态路由方法)
 
 </div>
 
 <div class='paper-box-text' markdown="1">
 
--	**`Xiucheng Wang`**, Tingwei Yuan, Yang Cao, Nan Cheng, Ruijin Sun, Weihua Zhuang. **iRadioDiff: Physics-Informed Diffusion Model for Indoor Radio Map Construction and Localization**. [IEEE ICC](https://arxiv.org/abs/2511.20015), 2026.[Github](https://github.com/UNIC-Lab/iRadioDiff). (⭐**IEEE ComSoc Flagship**)
+-	**`Xiucheng Wang`**, Tingwei Yuan, Yang Cao, Nan Cheng, Ruijin Sun, Weihua Zhuang. **iRadioDiff: Physics-Informed Diffusion Model for Indoor Radio Map Construction and Localization**. [IEEE ICC](https://arxiv.org/abs/2511.20015), 2026.[Github](https://github.com/UNIC-Lab/iRadioDiff). (⭐**IEEE ComSoc Flagship**，物理启发的室内电磁地图与室内定位方法)
 
 </div>
 
 <div class='paper-box-text' markdown="1">
 
 -	**`Xiucheng Wang`**, Zixuan Guo, Nan Cheng, Zhisheng Yin, Ruijin Sun, Xuemin Shen. **RadioDiff-FS: Physics-Informed Manifold Alignment in Few-Shot Diffusion Models for High-Fidelity Radio Map Construction**
-. [ArXiv](https://arxiv.org/abs/2603.18865), 2026.[Github](https://github.com/UNIC-Lab/RadioDiff-FS).
+. [ArXiv](https://arxiv.org/abs/2603.18865), 2026.[Github](https://github.com/UNIC-Lab/RadioDiff-FS). (基于物理一致性的微调方案)
 
 </div>
 
