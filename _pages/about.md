@@ -43,7 +43,7 @@ My research interests include:
 
 <div class='paper-box-text' markdown="1">
 
--	**`Xiucheng Wang`**, Yuhao Pan, Nan Cheng. **A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awarenes**. [Arxiv](https://arxiv.org/abs/2603.17499), 2026.
+-	**`Xiucheng Wang`**, Yuhao Pan, Nan Cheng. **A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awareness**. [Arxiv](https://arxiv.org/abs/2603.17499), 2026.
 
 </div>
 
@@ -108,6 +108,12 @@ My research interests include:
 
 -	**`Xiucheng Wang`**, Zixuan Guo, Nan Cheng, Zhisheng Yin, Ruijin Sun, Xuemin Shen. **RadioDiff-FS: Physics-Informed Manifold Alignment in Few-Shot Diffusion Models for High-Fidelity Radio Map Construction**
 . [ArXiv](https://arxiv.org/abs/2603.18865), 2026.[Github](https://github.com/UNIC-Lab/RadioDiff-FS). (基于物理一致性的微调方案)
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+-	**`Xiucheng Wang`**, Nan Cheng, Zhisheng Yin, Conghao Zhou, Ruijin Sun. **Beam-Aware Radio Map Estimation With Physics-Consistent Parametric Modeling for Unknown Multiple Satellites**. [ArXiv](https://arxiv.org/abs/2605.07763), 2026.
 
 </div>
 
