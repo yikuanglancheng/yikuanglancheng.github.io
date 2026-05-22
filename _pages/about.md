@@ -100,7 +100,7 @@ My research interests include:
 
 <div class='paper-box-text' markdown="1">
 
--	**`Xiucheng Wang`**, Tingwei Yuan, Yang Cao, Nan Cheng, Ruijin Sun, Weihua Zhuang. **iRadioDiff: Physics-Informed Diffusion Model for Indoor Radio Map Construction and Localization**. [IEEE ICC](https://arxiv.org/abs/2511.20015), 2026.[Github](https://github.com/UNIC-Lab/iRadioDiff). (⭐**IEEE ComSoc Flagship**，物理启发的室内电磁地图与室内定位方法)
+-	**`Xiucheng Wang`**, Tingwei Yuan, Yang Cao, Nan Cheng, Ruijin Sun, Weihua Zhuang. **iRadioDiff: Physics-Informed Diffusion Model for Indoor Radio Map Construction and Localization**. [IEEE ICC](https://arxiv.org/abs/2511.20015), 2026.[Github](https://github.com/UNIC-Lab/iRadioDiff). (🏆 IEEE ICC **Best Paper Award**! ⭐**IEEE ComSoc Flagship**，物理启发的室内电磁地图与室内定位方法)
 
 </div>
 
