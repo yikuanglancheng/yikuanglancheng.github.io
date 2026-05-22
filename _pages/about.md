@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at the School of Telecommunication Engineering, Xidian University, advised by Prof. [Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and Prof. [Nan Cheng](https://scholar.google.com/citations?user=Cxm51twAAAAJ&hl=en&oi=ao). I have been selected for the PhD Program of the "Young Talents Cultivation" Initiative launched by the China Association for Science and Technology (中国科协“青托”博士生专项), and also won the **Presidential Award** of Xidian University（西安电子科技大学校长奖）, first author of 🏅**IEEE ICC Best Paper Award**.
+I am a PhD student at the School of Telecommunication Engineering, Xidian University, advised by Prof. [Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and Prof. [Nan Cheng](https://scholar.google.com/citations?user=Cxm51twAAAAJ&hl=en&oi=ao). I have been selected for the PhD Program of the "Young Talents Cultivation" Initiative launched by the China Association for Science and Technology (中国科协“青托”博士生专项), and also won the **Presidential Award** of Xidian University（西安电子科技大学校长奖）, first author of 🏅**IEEE ICC Best Paper Award** which is the flagship of IEEE ComSoc.
 
 My research interests include:
 - Radio Map 
@@ -82,6 +82,12 @@ My research interests include:
 
 <div class='paper-box-text' markdown="1">
 
+-	**`Xiucheng Wang`**, Tingwei Yuan, Yang Cao, Nan Cheng, Ruijin Sun, Weihua Zhuang. **iRadioDiff: Physics-Informed Diffusion Model for Indoor Radio Map Construction and Localization**. [IEEE ICC](https://arxiv.org/abs/2511.20015), 2026.[Github](https://github.com/UNIC-Lab/iRadioDiff). (🏆 IEEE ICC **Best Paper Award**! ⭐**IEEE ComSoc Flagship**，物理启发的室内电磁地图与室内定位方法)
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
 -	**`Xiucheng Wang`**, Peilin Zheng, Honggang Jia, Nan Cheng, Ruijin Sun, Conghao Zhou, Xuemin Shen. **RadioDiff-Flux: Efficient Radio Map Construction via Generative Denoise Diffusion Model Trajectory Midpoint Reuse**. [IEEE TCCN](https://ieeexplore.ieee.org/document/11282987), 2025. （⭐中科院**一区**，动态环境与基站位置动态变化下的加速推理方案）
 
 </div>
@@ -95,12 +101,6 @@ My research interests include:
 <div class='paper-box-text' markdown="1">
 
 -	**`Xiucheng Wang`**, Zien Wang, Nan Cheng, Wenchao Xu, Wei Quan, Xuemin Shen. **Graph Neural Network-Based Multicast Routing for On-Demand Streaming Services in 6G Networks**. [IEEE TMC](https://ieeexplore.ieee.org/abstract/document/11260947), 2025.[Github](https://github.com/UNIC-Lab/GNN-Routing). (⭐中科院**一区**，🏆CCF-A，基于图神经网络的按需动态路由方法)
-
-</div>
-
-<div class='paper-box-text' markdown="1">
-
--	**`Xiucheng Wang`**, Tingwei Yuan, Yang Cao, Nan Cheng, Ruijin Sun, Weihua Zhuang. **iRadioDiff: Physics-Informed Diffusion Model for Indoor Radio Map Construction and Localization**. [IEEE ICC](https://arxiv.org/abs/2511.20015), 2026.[Github](https://github.com/UNIC-Lab/iRadioDiff). (🏆 IEEE ICC **Best Paper Award**! ⭐**IEEE ComSoc Flagship**，物理启发的室内电磁地图与室内定位方法)
 
 </div>
 
