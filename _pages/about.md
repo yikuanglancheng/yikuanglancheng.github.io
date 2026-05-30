@@ -24,8 +24,8 @@ redirect_from:
 Advised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and [Prof. Nan Cheng](https://scholar.google.com/citations?user=Cxm51twAAAAJ&hl=en&oi=ao)
 
 [![中国科协青托](https://img.shields.io/badge/中国科协-青托博士生专项-red?style=flat-square)](https://www.cast.org.cn/)
-[![Presidential Award](https://img.shields.io/badge/🏆-Presidential%20Award%20of%20XDU-gold?style=flat-square)]()
-[![Best Paper](https://img.shields.io/badge/🏅-IEEE%20ICC%20Best%20Paper-blue?style=flat-square)]()
+![Presidential Award](https://img.shields.io/badge/🏆-Presidential%20Award%20of%20XDU-gold?style=flat-square)
+![Best Paper](https://img.shields.io/badge/🏅-IEEE%20ICC%20Best%20Paper-blue?style=flat-square)
 
 
 ---
@@ -56,13 +56,13 @@ Advised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and
 
 ### English
 
-<details open>
+<details open markdown="1">
 <summary><b>📡 Radio Map Construction</b></summary>
-<br>
+
 
 | Paper | Venue | Links | Notes |
 |:------|:------|:------|:------|
-| **`Xiucheng Wang`** et al. **RadioDiff-$k^2$: Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction** | ![JSAC](https://img.shields.io/badge/IEEE-JSAC%202025-005BAC?style=flat-square) | [📄 Paper](https://ieeexplore.ieee.org/document/11278649) · [💻 Code](https://github.com/UNIC-Lab/RadioDiff-k) | ⭐ 中科院一区 · 🏆 CCF-A |
+| **`Xiucheng Wang`** et al. **RadioDiff-k<sup>2</sup>: Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction** | ![JSAC](https://img.shields.io/badge/IEEE-JSAC%202025-005BAC?style=flat-square) | [📄 Paper](https://ieeexplore.ieee.org/document/11278649) · [💻 Code](https://github.com/UNIC-Lab/RadioDiff-k) | ⭐ 中科院一区 · 🏆 CCF-A |
 | **`Xiucheng Wang`** et al. **RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction** | ![TCCN](https://img.shields.io/badge/IEEE-TCCN%202025-005BAC?style=flat-square) | [📄 Paper](https://ieeexplore.ieee.org/abstract/document/10764739) · [💻 Code](https://github.com/UNIC-Lab/RadioDiff) | ⭐ 中科院一区 · 🏆 ESI Highly Cited · IEEE Popular Paper |
 | **`Xiucheng Wang`** et al. **RadioDiff-3D: A 3D × 3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication** | ![TNSE](https://img.shields.io/badge/IEEE-TNSE%202025-005BAC?style=flat-square) | [📄 Paper](https://ieeexplore.ieee.org/document/11083758) · [💻 Code](https://github.com/UNIC-Lab/UrbanRadio3D) | ⭐ 中科院二区 · 🏆 TNSE Feature Paper · IEEE Popular Paper |
 | **`Xiucheng Wang`** et al. **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction** | ![TWC](https://img.shields.io/badge/IEEE-TWC%202026-005BAC?style=flat-square) | [📄 Paper](https://arxiv.org/abs/2504.14298) · [💻 Code](https://github.com/UNIC-Lab/radiodiff-inverse) | ⭐ 中科院一区 · 🏆 CCF-A |
@@ -75,9 +75,9 @@ Advised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and
 
 </details>
 
-<details open>
+<details open markdown="1">
 <summary><b>🌐 Network Optimization</b></summary>
-<br>
+
 
 | Paper | Venue | Links | Notes |
 |:------|:------|:------|:------|
