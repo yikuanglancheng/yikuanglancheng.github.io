@@ -19,9 +19,11 @@ redirect_from:
 
 # Xiucheng Wang (王秀程)
 
-**PhD Student** · School of Telecommunication Engineering, Xidian University
+**PhD Student** · School of Telecommunication Engineering, Xidian University. 
 
 Advised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and [Prof. Nan Cheng](https://scholar.google.com/citations?user=Cxm51twAAAAJ&hl=en&oi=ao)
+
+**Google Scholar Citations:** <span id="total_cit">loading...</span>
 
 [![中国科协青托](https://img.shields.io/badge/中国科协-青托博士生专项-red?style=flat-square)](https://www.cast.org.cn/)
 ![Presidential Award](https://img.shields.io/badge/🏆-Presidential%20Award%20of%20XDU-gold?style=flat-square)
