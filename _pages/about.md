@@ -27,7 +27,6 @@ Advised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and
 [![Presidential Award](https://img.shields.io/badge/🏆-Presidential%20Award%20of%20XDU-gold?style=flat-square)]()
 [![Best Paper](https://img.shields.io/badge/🏅-IEEE%20ICC%20Best%20Paper-blue?style=flat-square)]()
 
-</div>
 
 ---
 
