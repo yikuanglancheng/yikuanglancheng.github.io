@@ -64,6 +64,7 @@ Advised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and
 
 | Paper | Venue | Links | Notes |
 |:------|:------|:------|:------|
+| **`Xiucheng Wang`** et al. **Beam-Aware Radio Map Estimation With Physics-Consistent Parametric Modeling for Unknown Multiple Satellites** | ![arXiv](https://img.shields.io/badge/arXiv-2026-B31B1B?style=flat-square) | [📄 Paper](https://arxiv.org/abs/2605.07763) | |
 | **`Xiucheng Wang`** et al. **RadioDiff-v2: Generative Angular Radio Maps for Multi-Beam Selection and Localization** | ![arXiv](https://img.shields.io/badge/arXiv-2026-B31B1B?style=flat-square) | [📄 Paper](https://arxiv.org/abs/2607.08045) | |
 | **`Xiucheng Wang`** et al. **RadioDiff-Inv2: Differentiable Diffusion Inversion under Location Drift from Sparse Noisy Measurements for Radio Map Estimation** | ![arXiv](https://img.shields.io/badge/arXiv-2026-B31B1B?style=flat-square) | [📄 Paper](https://arxiv.org/abs/2606.08439) | |
 | **`Xiucheng Wang`** et al. **PALM: Single-Station Super-Resolved Small-Scale Radio-Map Localization by Path-Atom Matching** | ![arXiv](https://img.shields.io/badge/arXiv-2026-B31B1B?style=flat-square) | [📄 Paper](https://arxiv.org/abs/2606.16157) | |
@@ -75,7 +76,6 @@ Advised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and
 | **`Xiucheng Wang`** et al. **RadioDiff-FS: Physics-Informed Manifold Alignment in Few-Shot Diffusion Models for High-Fidelity Radio Map Construction** | ![IoT J](https://img.shields.io/badge/IEEE-IoTJ%202026-005BAC?style=flat-square) | [📄 Paper](https://ieeexplore.ieee.org/document/11577136/) · [💻 Code](https://github.com/UNIC-Lab/RadioDiff-FS) | |
 | **`Xiucheng Wang`** et al. **RadioDiff-Flux: Efficient Radio Map Construction via Generative Denoise Diffusion Model Trajectory Midpoint Reuse** | ![TCCN](https://img.shields.io/badge/IEEE-TCCN%202025-005BAC?style=flat-square) | [📄 Paper](https://ieeexplore.ieee.org/document/11282987) | ⭐ 中科院一区 |
 | **`Xiucheng Wang`** et al. **RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction** | ![INFOCOM](https://img.shields.io/badge/IEEE-INFOCOM%20Wksp%202025-6C757D?style=flat-square) | [📄 Paper](https://ieeexplore.ieee.org/abstract/document/11152929/) | 🏆 CCF-A |
-| **`Xiucheng Wang`** et al. **Beam-Aware Radio Map Estimation With Physics-Consistent Parametric Modeling for Unknown Multiple Satellites** | ![arXiv](https://img.shields.io/badge/arXiv-2026-B31B1B?style=flat-square) | [📄 Paper](https://arxiv.org/abs/2605.07763) | |
 | **`Xiucheng Wang`** et al. **RadioDiff-Loc: Diffusion Model Enhanced Scattering Cognition for NLoS Localization with Sparse Radio Map Estimation** | ![arXiv](https://img.shields.io/badge/arXiv-2025-B31B1B?style=flat-square) | [📄 Paper](https://www.arxiv.org/abs/2509.01875) | |
 
 </details>
