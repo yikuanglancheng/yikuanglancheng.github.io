@@ -46,11 +46,15 @@ Advised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and
 
 ---
 
-## 🖊️ Tutorial Paper
+## 🖊️ Tutorial
 
 **`Xiucheng Wang`**, Yuhao Pan, Nan Cheng.
 **A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awareness**.
 [arXiv 2026](https://arxiv.org/abs/2603.17499)
+
+**`Xiucheng Wang`**.
+**Physics Informed Learning Methods for Radio Map Construction**.
+[IEEE ICCC Tutorial 2026](https://arxiv.org/abs/2603.17499)
 
 ---
 
