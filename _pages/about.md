@@ -54,7 +54,7 @@ Advised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and
 
 **`Xiucheng Wang`**.
 **Physics Informed Learning Methods for Radio Map Construction**.
-[IEEE ICCC Tutorial 2026](https://arxiv.org/abs/2603.17499)
+[IEEE ICCC Tutorial 2026](https://github.com/yikuanglancheng/yikuanglancheng.github.io/blob/main/_data/ICCC%202026%20Tutoria.pdf)
 
 ---
 
