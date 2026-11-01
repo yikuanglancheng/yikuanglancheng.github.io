@@ -21,7 +21,7 @@ redirect_from:
 
 **PhD Student** · School of Telecommunication Engineering, Xidian University. 
 
-Advised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and [Prof. Nan Cheng](https://scholar.google.com/citations?user=Cxm51twAAAAJ&hl=en&oi=ao)
+Advised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and [Prof. Nan Cheng](https://scholar.google.com/citations?user=hbwPRacAAAAJ&hl)
 
 **Google Scholar Citations:** <span id="total_cit">loading...</span>
 
