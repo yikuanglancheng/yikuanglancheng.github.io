@@ -19,9 +19,7 @@ redirect_from:
 
 # Xiucheng Wang (王秀程)
 
-**PhD Student** · School of Telecommunication Engineering, Xidian University. 
-
-Advised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and [Prof. Nan Cheng](https://scholar.google.com/citations?user=hbwPRacAAAAJ&hl)
+I earned my PhD at Xidian University’s School of Telecommunications Engineering. My doctoral advisors were [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/electrical-computer-engineering/profile/sshen) and [Prof. Nan Cheng](https://faculty.xidian.edu.cn/CHENGNNAN/en/index.htm).
 
 **Google Scholar Citations:** <span id="total_cit">loading...</span>
 
@@ -68,6 +66,7 @@ Advised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) and
 
 | Paper | Venue | Links | Notes |
 |:------|:------|:------|:------|
+| Nan Cheng and **`Xiucheng Wang`**. **RMSampler: Sparse Radio Map Reconstruction with Active Sampling and Diffusion Posterior Correction** | ![arXiv 2026](https://img.shields.io/badge/arXiv-2026-B31B1B?style=flat-square) | [📄 Paper](https://arxiv.org/abs/2610.27464) · [💻 Code](https://github.com/UNIC-Lab/RMSampler) | |
 | **`Xiucheng Wang`** et al. **Beam-Aware Radio Map Estimation With Physics-Consistent Parametric Modeling for Unknown Multiple Satellites** | ![arXiv](https://img.shields.io/badge/arXiv-2026-B31B1B?style=flat-square) | [📄 Paper](https://arxiv.org/abs/2605.07763) | |
 | **`Xiucheng Wang`** et al. **RadioDiff-v2: Generative Angular Radio Maps for Multi-Beam Selection and Localization** | ![arXiv](https://img.shields.io/badge/arXiv-2026-B31B1B?style=flat-square) | [📄 Paper](https://arxiv.org/abs/2607.08045) | |
 | **`Xiucheng Wang`** et al. **RadioDiff-Inv2: Differentiable Diffusion Inversion under Location Drift from Sparse Noisy Measurements for Radio Map Estimation** | ![arXiv](https://img.shields.io/badge/arXiv-2026-B31B1B?style=flat-square) | [📄 Paper](https://arxiv.org/abs/2606.08439) | |
