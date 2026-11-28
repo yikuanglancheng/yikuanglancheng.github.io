@@ -34,21 +34,18 @@ jobs:
         run: |
           python -m pip check
           python -c "from scholarly import scholarly; from bibtexparser.bibdatabase import BibDatabase"
-      - name: Fetch Google Scholar citations
-        working-directory: google_scholar_crawler
-        env:
-          GOOGLE_SCHOLAR_ID: hbwPRacAAAAJ
-        run: python main.py
       - name: Check out citation data branch
         uses: actions/checkout@v6
         with:
           ref: google-scholar-stats
           path: citation-data
+      - name: Fetch Google Scholar citations
+        env:
+          GOOGLE_SCHOLAR_ID: hbwPRacAAAAJ
+        run: python google_scholar_crawler/main.py --output-dir citation-data
       - name: Publish citation data
+        working-directory: citation-data
         run: |
-          cp google_scholar_crawler/results/gs_data.json citation-data/
-          cp google_scholar_crawler/results/gs_data_shieldsio.json citation-data/
-          cd citation-data
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add gs_data.json gs_data_shieldsio.json
